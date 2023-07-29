@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <br>
-  <a href=""><img src="./logo.png" alt="KiarashAlizadeh" width="200"></a>
+  <a href=""><img src="./logo.PNG" alt="KiarashAlizadeh" width="200"></a>
   <br>
   Kiarash Alizadeh
 </h1>
