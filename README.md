@@ -32,6 +32,23 @@ Here are some ideas to get you started:
 | German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
 | Czech         | Native language                                                           |
 
+
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>
+
+- 📫 How to reach me: Kiarash_Alizadeh@yahoo.com
+## My social networks
+<a href="https://t.me/kiarash_alizadeh" target="blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://instagram.com/kiarash_alizadehh" target="blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://twitter.com/kiarashAlizadeh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" />
+</a>
 -->
 
 <h1 align="center">
@@ -45,7 +62,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning "React.js"
 
-- 📫 How to reach me: Kiarash_Alizadeh@yahoo.com
+
 
 ## My expertise
 
@@ -60,6 +77,7 @@ Here are some ideas to get you started:
   
 
 </p>
+<br>
 
 ## Languages 🌐
 
@@ -69,23 +87,24 @@ Here are some ideas to get you started:
 | German        | B2 |
 | persian       | Native language                                                           |
 
-## My social networks
-<a href="https://t.me/kiarash_alizadeh" target="blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://instagram.com/kiarash_alizadehh" target="blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/kiarashAlizadeh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" />
-</a>
+ <br>
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
+
+ <br>
 
 ## GitHub activity
 * The most languages I used in GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" /></p>
 
-* GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>
+ <br>
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+![Metrics](https://metrics.lecoq.io/kiarashAlizadeh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
