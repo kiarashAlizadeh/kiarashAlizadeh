@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-
-<br>
-  <a href="https://instagram.com/weblax.ir"><img src="./logo.png" alt="omidbaharifar" width="200"></a>
-  <br>
 -->
 
 <h1 align="center">
-  
+  <br>
+  <a href=""><img src="./logo.png" alt="KiarashAlizadeh" width="200"></a>
+  <br>
   Kiarash Alizadeh
 </h1>
 
