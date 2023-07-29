@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 </p>
 
 ## My social networks
-<a href="https://t.me/kiarash_alizadeh">
+<a href="https://t.me/kiarash_alizadeh" target="blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://instagram.com/kiarash_alizadehh">
+<a href="https://instagram.com/kiarash_alizadehh" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
