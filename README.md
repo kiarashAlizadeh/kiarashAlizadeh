@@ -49,21 +49,20 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kiarashAlizadeh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" />
 </a>
+- 🌱 I’m currently learning "React.js"
 -->
 
 <h1 align="center">
   <br>
   <a href=""><img src="./logo.PNG" alt="KiarashAlizadeh" width="200"></a>
   <br>
-  Kiarash Alizadeh
+  ＫＩΛＲΛＳＨ &nbsp ΛＬＩＺΛＤΞＨ
 </h1>
 
-<h4 align="center"> A junior front end developer, from Iran!</h4>
+<h4 align="center"> 𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻, 𝓯𝓻𝓸𝓶 𝓘𝓻𝓪𝓷!</h4>
 
-- 🌱 I’m currently learning "React.js"
-
-
-
+ <br>
+ 
 ## My expertise
 
 <p>
