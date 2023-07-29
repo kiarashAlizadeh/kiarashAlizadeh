@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
+| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Czech         | Native language                                                           |
+
 -->
 
 <h1 align="center">
@@ -52,6 +61,14 @@ Here are some ideas to get you started:
 
 </p>
 
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | fluent                |
+| German        | B2 |
+| persian       | Native language                                                           |
+
 ## My social networks
 <a href="https://t.me/kiarash_alizadeh" target="blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -60,6 +77,12 @@ Here are some ideas to get you started:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-## The most languages I used in GitHub
-
+## GitHub activity
+* The most languages I used in GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" /></p>
+
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>
+
