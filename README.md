@@ -50,6 +50,24 @@ Here are some ideas to get you started:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" />
 </a>
 - 🌱 I’m currently learning "React.js"
+## GitHub activity
+* The most languages I used in GitHub
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" /></p>
+
+ <br>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+<a href="https://github.com/kiarashAlizadeh/kiarashAlizadeh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashAlizadeh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/kiarashAlizadeh/kiarashAlizadeh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+ 
+<a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
+- DataBase: 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" />
 -->
 
 <h1 align="center">
@@ -66,19 +84,30 @@ Here are some ideas to get you started:
 ## My expertise
 
 <p>
-
+    
+- front-end：
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
+    
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
+    ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)
+    ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
   
-
+- Languages: ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
 </p>
 <br>
 
-## Languages 🌐
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=kiarashAlizadeh&theme=gruvbox_light&layout=compact"/>
+</div>
+
+<br>
+
+## 🌐 Languages
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
@@ -97,13 +126,9 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
 
  <br>
+ 
 
-## GitHub activity
-* The most languages I used in GitHub
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" /></p>
 
- <br>
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## &#x1f4c8; GitHub Stats
 
 ![Metrics](https://metrics.lecoq.io/kiarashAlizadeh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
