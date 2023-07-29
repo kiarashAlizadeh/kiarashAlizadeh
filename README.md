@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 
+<a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+
 <br>
   <a href="https://instagram.com/weblax.ir"><img src="./logo.png" alt="omidbaharifar" width="200"></a>
   <br>
@@ -54,7 +58,4 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/kiarash_alizadehh">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
