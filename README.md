@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | Czech         | Native language                                                           |
 
 
-* GitHub stats:  
+* GitHub stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
@@ -63,11 +63,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 <a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
- 
+
 <a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
-- DataBase: 
+- DataBase:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" />
+
+, 𝓯𝓻𝓸𝓶 𝓘𝓻𝓪𝓷!
 -->
 
 <h1 align="center">
@@ -77,7 +79,7 @@ Here are some ideas to get you started:
   ＫＩΛＲΛＳＨ &nbsp ΛＬＩＺΛＤΞＨ
 </h1>
 
-<h4 align="center"> 𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻, 𝓯𝓻𝓸𝓶 𝓘𝓻𝓪𝓷!</h4>
+<h4 align="center"> 𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h4>
 
  <br>
  
@@ -109,11 +111,11 @@ Here are some ideas to get you started:
 
 ## 🌐 Languages
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English       | fluent                |
-| German        | B2 |
-| persian       | Native language                                                           |
+| Language | Proficiency     |
+| -------- | --------------- |
+| English  | fluent          |
+| German   | B2              |
+| persian  | Native language |
 
  <br>
 
@@ -126,7 +128,6 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
 
  <br>
- 
 
 
 ## &#x1f4c8; GitHub Stats
