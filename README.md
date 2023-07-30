@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: Kiarash_Alizadeh@yahoo.com
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -19,6 +20,8 @@ Here are some ideas to get you started:
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
 
 <a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
 
-- 📫 How to reach me: Kiarash_Alizadeh@yahoo.com
 ## My social networks
 <a href="https://t.me/kiarash_alizadeh" target="blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -49,12 +51,12 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kiarashAlizadeh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" />
 </a>
-- 🌱 I’m currently learning "React.js"
+
 ## GitHub activity
 * The most languages I used in GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" /></p>
-
  <br>
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <a href="https://github.com/kiarashAlizadeh/kiarashAlizadeh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashAlizadeh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -62,12 +64,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/kiarashAlizadeh/kiarashAlizadeh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarashAlizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-
-<a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
-- DataBase:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashAlizadeh&show_icons=true&theme=merko&title_color=c7b8b8&locale=en&layout=compact" alt="KiarashAlizadeh" />
+
+- DataBase:
 
 , 𝓯𝓻𝓸𝓶 𝓘𝓻𝓪𝓷!
 -->
