@@ -92,31 +92,31 @@ Here are some ideas to get you started:
 <p>
   
 - front-end：
-[<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/)
-[<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" />](https://sass-lang.com/)
-[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" />](https://www.figma.com/)
+[<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
+[<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
+[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
 
 - Languages:
-[<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" />](https://www.python.org/)
-[<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" title="Python"/>](https://www.python.org/)
+[<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" title="C#"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 - DataBase:
-[<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" />](https://www.microsoft.com/en-us/sql-server/)  
+[<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" title="mssqlserver"/>](https://www.microsoft.com/en-us/sql-server/)  
 
 - Version Control：
-[<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" />](https://git-scm.com/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" />](https://github.com/)
-[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" />](https://gitlab.com/)
+[<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/)
+[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/)
 
 - Graphic Design:
-[<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" />](https://www.adobe.com/products/photoshop.html)
+[<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" title="photoshop"/>](https://www.adobe.com/products/photoshop.html)
 <br>
 
 - 🌱 I’m currently learning
-[<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" />](https://react.dev/)
+[<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
 
 </p>
 
@@ -130,17 +130,18 @@ Here are some ideas to get you started:
 | German   | B2              |
 | persian  | Native language |
 
- <br>
+<br>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact KiarashAlizadeh on Telegram" title="Contact KiarashAlizadeh on LinkedIn"/>](https://t.me/kiarash_alizadeh) 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
 
- <br>
+<br>
  
 ## Language usage
 
