@@ -70,6 +70,10 @@ Here are some ideas to get you started:
 - DataBase:
 
 , 𝓯𝓻𝓸𝓶 𝓘𝓻𝓪𝓷!
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+
+<a href="" target="_blank" rel="noreferrer"><img alt="" src="" /></a>
 -->
 
 <h1 align="center">
@@ -88,16 +92,28 @@ Here are some ideas to get you started:
 <p>
     
 - front-end：
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" /></a>
     
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-    ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)
-    ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- Version Control：
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+
+- DataBase:
+<a href="#" target="_blank" rel="noreferrer"><img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=red" /></a>   
+- Languages:
+<a href="" target="_blank" rel="noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" /></a>
+- Graphic Design:
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" /></a>
+
+- 🌱 I’m currently learning <a href="https://react.dev/" target="_blank" rel="noreferrer"><img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" /></a>
   
-- Languages: ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
 </p>
 <br>
 
