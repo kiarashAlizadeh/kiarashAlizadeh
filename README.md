@@ -87,41 +87,38 @@ Here are some ideas to get you started:
 
  <br>
  
-## My expertise
+## 🛠️ My expertise
 
 <p>
-    
+  
 - front-end：
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" /></a>
-    
-- Version Control：
-![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+[<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/)
+[<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" />](https://sass-lang.com/)
+[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" />](https://www.figma.com/)
+
+- Languages:
+[<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" />](https://www.python.org/)
+[<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 - DataBase:
-<a href="#" target="_blank" rel="noreferrer"><img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=red" /></a>   
-- Languages:
-<a href="" target="_blank" rel="noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" /></a>
-- Graphic Design:
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" /></a>
+[<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" />](https://www.microsoft.com/en-us/sql-server/)  
 
-- 🌱 I’m currently learning <a href="https://react.dev/" target="_blank" rel="noreferrer"><img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" /></a>
-  
-</p>
+- Version Control：
+[<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" />](https://git-scm.com/)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" />](https://github.com/)
+[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" />](https://gitlab.com/)
+
+- Graphic Design:
+[<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" />](https://www.adobe.com/products/photoshop.html)
 <br>
 
-> Language usage
+- 🌱 I’m currently learning
+[<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" />](https://react.dev/)
 
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=kiarashAlizadeh&theme=gruvbox_light&layout=compact"/>
-</div>
+</p>
 
 <br>
 
@@ -139,13 +136,24 @@ Here are some ideas to get you started:
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
 
  <br>
+ 
+## Language usage
 
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=kiarashAlizadeh&theme=gruvbox_light&layout=compact"/>
+</div>
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
+<div align="center">
+    
 ![Metrics](https://metrics.lecoq.io/kiarashAlizadeh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+</div>
