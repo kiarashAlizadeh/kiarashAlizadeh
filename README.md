@@ -78,10 +78,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <br>
-  <a href=""><img src="./logo.PNG" alt="KiarashAlizadeh" width="200"></a>
+  <img src="./logo.PNG" alt="KiarashAlizadeh" width="200">
   <br>
   ＫＩΛＲΛＳＨ &nbsp ΛＬＩＺΛＤΞＨ
 </h1>
+
 
 <h4 align="center"> 𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h4>
 
