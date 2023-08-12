@@ -106,6 +106,9 @@ Here are some ideas to get you started:
 [<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" title="Python"/>](https://www.python.org/)
 [<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" title="C#"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
+- Cms:
+[<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-circle&logo=WordPress&logoColor=white" title="WordPress" />](https://wordpress.org/)
+  
 - DataBase:
 [<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" title="mssqlserver"/>](https://www.microsoft.com/en-us/sql-server/)  
 
@@ -121,7 +124,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning
 [<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
-
+& <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-circle&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
 </p>
 
 <br>
