@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 | -------- | --------------- |
 | English  | fluent          |
 | German   | B2              |
-| persian  | Native language |
+| Persian  | Native language |
 
 <br>
 
