@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>]
+
 <a href="" target="_blank" rel="noreferrer"><img alt="" src="" /></a>
 -->
 
@@ -140,7 +142,7 @@ Here are some ideas to get you started:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact KiarashAlizadeh on Telegram" title="Contact KiarashAlizadeh on LinkedIn"/>](https://t.me/kiarash_alizadeh) 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
+[<img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>](https://twitter.com/kiarashAlizadeh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KiarashAlizadeh on LinkedIn" title="Follow KiarashAlizadeh on LinkedIn"/>](https://www.linkedin.com/in/kiarash-alizadeh-13319222b)
 
 <br>
