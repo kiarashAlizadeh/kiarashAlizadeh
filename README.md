@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
 [<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
-[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
+
 
 - Languages:
 [<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" title="Python"/>](https://www.python.org/)
@@ -112,7 +112,8 @@ Here are some ideas to get you started:
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/)
 [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/)
 
-- Graphic Design:
+- Graphic & Ui Design:
+[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
 [<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" title="photoshop"/>](https://www.adobe.com/products/photoshop.html)
 <br>
 
