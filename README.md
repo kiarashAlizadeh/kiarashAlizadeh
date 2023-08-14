@@ -76,8 +76,14 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Twitter" title="Follow KiarashAlizadeh on Twitter"/>]
 
 <a href="" target="_blank" rel="noreferrer"><img alt="" src="" /></a>
--->
 
+snake>>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+-->
 <h1 align="center">
   <br>
   <img src="./logo.PNG" alt="KiarashAlizadeh" width="200">
@@ -85,42 +91,60 @@ Here are some ideas to get you started:
   ＫＩΛＲΛＳＨ &nbsp ΛＬＩＺΛＤΞＨ
 </h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h4 align="center"> 𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h4>
+<h4 align="center">𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 </h4>
 
- <br>
- 
-## 🛠️ My expertise
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+<br>
+<br>
+<br>
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My expertise
 
 <p>
   
 - front-end：
-[<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
-[<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
+
+    [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+    [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
+    [<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
 
 
 - Languages:
-[<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" title="Python"/>](https://www.python.org/)
-[<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" title="C#"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+      
+    [<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-circle&logo=Python" title="Python"/>](https://www.python.org/)
+    [<img alt="C#" src="https://img.shields.io/badge/c%23-%236914a6?style=flat-circle&logo=csharp&logoColor=white" title="C#"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 - Cms:
-[<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-circle&logo=WordPress&logoColor=white" title="WordPress" />](https://wordpress.org/)
+  
+    [<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-circle&logo=WordPress&logoColor=white" title="WordPress" />](https://wordpress.org/)
   
 - DataBase:
-[<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" title="mssqlserver"/>](https://www.microsoft.com/en-us/sql-server/)  
+  
+    [<img alt="mssqlserver" src="https://img.shields.io/badge/Ms%20Sql%20Server-white?style=flat-circle&logo=microsoftsqlserver&logoColor=%23ff0000" title="mssqlserver"/>](https://www.microsoft.com/en-us/sql-server/)  
 
 - Version Control：
-[<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/)
-[<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/)
+  
+    [<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
+    [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/)
+    [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/)
 
 - Graphic & Ui Design:
-[<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
-[<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" title="photoshop"/>](https://www.adobe.com/products/photoshop.html)
-<br>
+  
+    [<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
+    [<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=photoshop&logoColor=%2331a8ff" title="photoshop"/>](https://www.adobe.com/products/photoshop.html)
 
 - 🌱 I’m currently learning
 [<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
@@ -141,7 +165,7 @@ Here are some ideas to get you started:
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 Or in 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Contact KiarashAlizadeh on Telegram" title="Contact KiarashAlizadeh on Telegram"/>](https://t.me/kiarash_alizadeh) 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow KiarashAlizadeh on Instagram" title="Follow KiarashAlizadeh on Instagram"/>](https://instagram.com/kiarash_alizadehh)
@@ -150,7 +174,7 @@ Here are some ideas to get you started:
 
 <br>
  
-## 📊 Language usage
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Language usage
 
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=kiarashAlizadeh&theme=gruvbox_light&layout=compact"/>
@@ -165,3 +189,9 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/kiarashAlizadeh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 </div>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
