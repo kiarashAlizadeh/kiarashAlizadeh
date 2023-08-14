@@ -86,7 +86,7 @@ snake>>
 -->
 <h1 align="center">
   <br>
-  <img src="./logo.PNG" alt="KiarashAlizadeh" width="200">
+  <img src="./logo.PNG" alt="KiarashAlizadeh" width="400">
   <br>
   ＫＩΛＲΛＳＨ &nbsp ΛＬＩＺΛＤΞＨ
 </h1>
