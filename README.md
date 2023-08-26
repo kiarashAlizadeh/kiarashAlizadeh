@@ -143,7 +143,7 @@ snake>>
 
 - Graphic & Ui Design:
   
-    [<img alt="figma" src="https://img.shields.io/badge/figma-%23ff7675?style=flat-circle&logo=figma&logoColor=white" title="figma"/>](https://www.figma.com/)
+    [<img alt="figma" src="https://img.shields.io/badge/Figma-white?style=flat-circle&logo=figma" title="figma"/>](https://www.figma.com/)
     [<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-circle&logo=adobephotoshop&logoColor=%2331a8ff" title="photoshop"/>](https://www.adobe.com/products/photoshop.html)
 
 - 🌱 I’m currently learning
