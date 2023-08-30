@@ -118,8 +118,9 @@ snake>>
     [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
     [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
     [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
     [<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
+    [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
+    [<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-circle&logo=tailwind-css&logoColor=white" title="TailwindCSS" />](https://tailwindcss.com/)
 
 
 - Languages:
@@ -138,8 +139,8 @@ snake>>
 - Version Control：
   
     [<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
-    [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/)
-    [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/)
+    [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/kiarashAlizadeh)
+    [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/kiarash_alizadeh)
 
 - Graphic & Ui Design:
   
@@ -149,7 +150,6 @@ snake>>
 
 - 🌱 I’m currently learning
 [<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
-& [<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-circle&logo=tailwind-css&logoColor=white" title="TailwindCSS" />](https://tailwindcss.com/)
 </p>
 
 <br>
