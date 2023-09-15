@@ -150,6 +150,8 @@ snake>>
 
 - 🌱 I’m currently learning
 [<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
+&
+[<img alt="React Native" src="https://img.shields.io/badge/React_Native-%23001e36?style=flat-circle&logo=React" title="React Native"/>](https://reactnative.dev/)
 </p>
 
 <br>
