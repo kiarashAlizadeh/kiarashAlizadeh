@@ -96,9 +96,9 @@ snake>>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :technologist: I have a passion for solving `problems` using software solutions.
+- :student: Currently, I'm pursuing studies in `Computer Science` and `Software Engineering`.
+- :nerd_face: Always eager to explore and `learn new things`.
 <br>
 <br>
 <br>
