@@ -10,19 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: Kiarash_Alizadeh@yahoo.com
+- 🌱 I’m currently learning
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://wordpress.org/" target="blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
-
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20" title="Figma"/> ](https://www.figma.com/)
 <a href="https://www.youtube.com/channel/UCyVGZFpVc6Xp4UhPybxR0vw">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
@@ -83,6 +76,8 @@ snake>>
        alt="snake" /></a>
 </div>
 
+[<img alt="React Native" src="https://img.shields.io/badge/React_Native-%23001e36?style=flat-circle&logo=React" title="React Native"/>](https://reactnative.dev/)
+
 -->
 <h1 align="center">
   <br>
@@ -93,7 +88,7 @@ snake>>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h4 align="center">𝓐 𝓳𝓾𝓷𝓲𝓸𝓻 𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 </h4>
+<h4 align="center">𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 </h4>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -113,7 +108,7 @@ snake>>
 
 <p>
   
-- front-end：
+- Front-end：
 
     [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white" title="HTML5"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
     [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white" title="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -121,7 +116,14 @@ snake>>
     [<img alt="sass" src="https://img.shields.io/badge/sass-%239b59b6?style=flat-circle&logo=sass&logoColor=white" title="sass"/>](https://sass-lang.com/)
     [<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23712cf9?style=flat-circle&logo=bootstrap&logoColor=white" title="bootstrap"/>](https://getbootstrap.com/)
     [<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-circle&logo=tailwind-css&logoColor=white" title="TailwindCSS" />](https://tailwindcss.com/)
+    [<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
+  [<img alt="Next JS" src="https://img.shields.io/badge/NextJs-black?style=flat-circle&logo=next.js&logoColor=white" title="Next Js" />](https://nextjs.org/)
+  [<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-circle&logo=typescript&logoColor=white" title="Typescript"/>](https://www.typescriptlang.org/)
+  [<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-circle&logo=graphql&logoColor=white" title="GraphQL" />](https://graphql.org/)
 
+- Back-end： 
+ Asp.net &
+ NodeJs
 
 - Languages:
       
@@ -138,7 +140,7 @@ snake>>
 
 - Version Control：
   
-    [<img alt="Git" src="https://img.shields.io/badge/Git-%23dddddc?style=flat-circle&logo=Git" title="Git"/>](https://git-scm.com/)
+    [<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-circle&logo=git&logoColor=white" title="Git"/>](https://git-scm.com/)
     [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub" title="GitHub"/>](https://github.com/kiarashAlizadeh)
     [<img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23e24329ad?style=flat-circle&logo=GitLab" title="GitLab"/>](https://gitlab.com/kiarash_alizadeh)
 
@@ -148,10 +150,8 @@ snake>>
     [<img alt="Figma" src="https://img.shields.io/badge/Figma-white?style=flat-circle&logo=figma" title="Figma"/>](https://www.figma.com/)
     [<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-white?style=flat-circle&logo=adobexd" title="Adobe XD"/>](https://helpx.adobe.com/support/xd.html)
 
-- 🌱 I’m currently learning
-[<img alt="React" src="https://img.shields.io/badge/React-%23001e36?style=flat-circle&logo=React" title="React"/>](https://react.dev/)
-&
-[<img alt="React Native" src="https://img.shields.io/badge/React_Native-%23001e36?style=flat-circle&logo=React" title="React Native"/>](https://reactnative.dev/)
+
+
 </p>
 
 <br>
