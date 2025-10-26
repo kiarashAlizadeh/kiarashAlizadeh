@@ -88,7 +88,7 @@ snake>>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h4 align="center">𝓯𝓻𝓸𝓷𝓽 𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 </h4>
+<h4 align="center">𝓯𝓾𝓵𝓵 𝓼𝓽𝓪𝓬𝓴 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 </h4>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -125,7 +125,6 @@ snake>>
   [<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-circle&logo=graphql&logoColor=white" title="GraphQL" />](https://graphql.org/)
 
 - Back-end： 
- Asp.net &
  NodeJs
 
 - Languages:
