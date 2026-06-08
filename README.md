@@ -20,7 +20,7 @@
 - 🏗️ Co-founded **TUT Learning** — led a 17+ person engineering team and designed the full backend architecture
 - 🚀 Currently freelancing on a large-scale **e-commerce microservices platform** in Go
 - 💬 Ask me about **Go, microservices, gRPC, RabbitMQ, PostgreSQL, Docker**
-- 📫 Reach me at: **kiarashalizade@gmail.com**
+- 📫 Reach me at: **kiarash_alizadeh@yahoo.com**
 <br>
 <br>
 <!-- buy me a coffee -->
